@@ -26,6 +26,7 @@ Nous voulons une fonctionnalité qui permet d'obtenir le numéro d'un membre.
 Exemple: Pour le membre *Hugo Scurti*, inscrit *le 04 mars 2012*, son numéro de membre est *SCUH120304*.
 
 1. Dans la classe MembreTest, nous créerons un test pour cette fonctionnalité. Appelons ce test _**testObtenirNumeroMembre()**_.
+    * Vous devez implémenter ce test en appelant une fonction de Membre qui n'existe pas encore. Il est donc normal qu'il y ait une erreur dans le test à ce moment-ci.
     * Comme nous devrons instancier des dates, je vous ai mis dans la classe de test un objet _SimpleDateFormat_ qui vous sera utile pour les tests de la classe _Membre_.
 2. Dans la classe Membre, écrivez la fonction **ObtenirNumeroMembre()** et faite-la retourner une valeur qui fera échouer le test (par exemple, retourner une chaîne vide).
     * Vérifiez que le test échoue réellement.
