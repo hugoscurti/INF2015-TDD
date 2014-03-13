@@ -43,7 +43,7 @@ C'est à votre tour d'implémenter la fonctionnalités suivante (en utilisant la
 Cette fonctionnalité permet de calculer le nombre d'années que le membre est inscrit au centre sportif.
 Par exemple, pour un membre qui est inscrit depuis le 12 mars 2013, ce fera un an qu'il est inscrit à partir du 12 mars 2014 (un peu comme on calcule l'âge de quelqu'un en fonction de sa date de naissance).
 * Allez-y avec les mêmes étapes qu'à l'exercice 1.
-* Conseil : pour comparer des dates, vous pouvez vous instancier deux Objets Calendar, puis comparer les années, les mois et les jours de chacun.
+* Conseil : pour comparer des dates, vous pouvez vous instancier deux Objets Calendar (à l'aide de la fonction _Calendar.getInstance()_), puis comparer les années, les mois et les jours de chacun.
 
 
 ### Exercice 3 : Ajout de fonctionalités de la classe _Cours_
