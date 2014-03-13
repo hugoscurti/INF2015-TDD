@@ -1,7 +1,10 @@
+Labo 6 : TDD
+=====
+
 Objectifs
 * Mettre en pratique le Test Driven Development (TDD)
 
-L'objectif de cette démonstration est de vous initiez au TDD à l'aide de JUnit. Vous implémenterez un peu de logique d'affaire après avoir écrit les tests unitaires associés.
+L'objectif de cette démonstration est de vous initier au TDD à l'aide de JUnit. Vous implémenterez un peu de logique d'affaire après avoir écrit les tests unitaires associés.
 
 
 Étapes classiques du TDD :
