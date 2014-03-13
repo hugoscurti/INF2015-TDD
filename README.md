@@ -32,7 +32,7 @@ Exemple: Pour le membre *Hugo Scurti*, inscrit *le 04 mars 2012*, son numéro de
     * Vérifiez que le test échoue réellement.
 3. Implémentez pour vrai la fonction **ObtenirNumeroMembre()** pour que le test réussisse.
 4. Refactorez la fonctionnalité jusqu'à temps que vous êtes satisfait du design!
-    * Dans le cas de la fonction **ObtenirNumeroMembre()**, une possibilité de refactoring serrait de calculer la valeur du numero de membre lors de l'instanciation et de la stocker dans une variable, puis simplement retourner la valeur stocké lors de l'appel de la fonction.
+    * Dans le cas de la fonction **ObtenirNumeroMembre()**, une possibilité de refactoring serrait de calculer la valeur du numéro de membre lors de l'instanciation et de la stocker dans une variable, puis simplement retourner la valeur stocké lors de l'appel de la fonction.
 
 ### Exercice 2 : Ajout d'une autre fonctionalités de la classe _Membre_
 
@@ -41,7 +41,7 @@ C'est à votre tour d'implémenter la fonctionnalités suivante (en utilisant la
 **Obtenir le nombre d'années que le membre est inscrit au centre sportif.**
 
 Cette fonctionnalité permet de calculer le nombre d'années que le membre est inscrit au centre sportif.
-Par exemple, pour un membre qui est inscrit depuis le 12 mars 2013, ce fera un an qu'il est inscrit à partir du 12 mars 2014(On peu comme on calcule l'âge de quelqu'un en fonction de sa date de naissance).
+Par exemple, pour un membre qui est inscrit depuis le 12 mars 2013, ce fera un an qu'il est inscrit à partir du 12 mars 2014 (un peu comme on calcule l'âge de quelqu'un en fonction de sa date de naissance).
 * Allez-y avec les mêmes étapes qu'à l'exercice 1.
 * Conseil : pour comparer des dates, vous pouvez vous instancier deux Objets Calendar, puis comparer les années, les mois et les jours de chacun.
 
