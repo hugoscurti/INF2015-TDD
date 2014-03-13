@@ -47,7 +47,7 @@ Par exemple, pour un membre qui est inscrit depuis le 12 mars 2013, ce fera un a
 
 
 ### Exercice 3 : Ajout de fonctionalités de la classe _Cours_
-On désire implémenter des fonctionnalités à la classe **Cours**. Cette classe représente un cours qui se donne au centre sportif (Par exemple, du Yoga!). Familiarisez-vous d'abord avec le code.
+On désire implémenter des fonctionnalités à la classe **Cours**. Cette classe représente un cours qui se donne au centre sportif (Par exemple, du Yoga). Familiarisez-vous d'abord avec le code.
 
 Ensuite, on désire implémenter les fonctionnalités suivantes : 
 
