@@ -11,7 +11,7 @@ L'objectif de cette démonstration est de vous initier au TDD à l'aide de JUnit
 
 1. Rédiger un test unitaire pour une fonctionnalité qui n'existe pas.
 2. Faire une implémentation dans le but de faire compiler le test et de le faire échouer.
-3. Rédiger une première vraie implémentation de la fonctionnalité, sans se préoccuper de la qualité du code ou du design.
+3. Rédiger une première vraie implémentation de la fonctionnalité, sans se préoccuper de la qualité du code ou du design. À ce moment, le test unitaire rédigé doit passer.
 4. Faire du refactoring jusqu'à l'obtention d'un design satisfaisant.
 
 Commencez par récupérer le projet GitHub suivant [INF2015-TDD](https://github.com/hugoscurti/INF2015-TDD) .
