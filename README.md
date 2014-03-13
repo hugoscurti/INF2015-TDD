@@ -52,7 +52,7 @@ On désire implémenter des fonctionnalités à la classe **Cours**. Cette class
 Ensuite, on désire implémenter les fonctionnalités suivantes : 
 
 1. Ajouter un membre au cours
-2. Retirer un membre au cours
+2. Vérifiez le nombre de places restantes pour le cours
 3. Calculer la moyenne d'ancienneté des membres inscrits au cours
 4. Vérifier si un membre est inscrit au cours
 
