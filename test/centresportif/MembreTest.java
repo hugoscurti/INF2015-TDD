@@ -11,7 +11,7 @@ public class MembreTest {
     
     @Before
     public void setUp() {
-        dateParser = new SimpleDateFormat("AAAA-MM-JJ");
+        dateParser = new SimpleDateFormat("yyyy-MM-dd");
     }
     
     @After
